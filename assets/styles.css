@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     color: rgb(108, 27, 43);
     margin: 30px 0 50px;
+    font-size: 54px;
 }
 
 .gallery {
@@ -26,3 +27,5 @@ h1 {
     filter: grayscale(0);
     transform: scale(1.1);
 }
+
+
